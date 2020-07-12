@@ -1,0 +1,8 @@
+<suite name="All_test" verbose="1">
+  <test name="all_ui_and_api_tests">
+    <packages>
+      <package name="ui"/>
+      <package name="api"/>
+    </packages>
+  </test>
+</suite>

@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+
+<suite name="Todoist_task_and_project_CRUD" verbose="1">
+  <test name="task_and_project">
+    <packages>
+      <package name="api"/>
+    </packages>
+  </test>
+</suite>

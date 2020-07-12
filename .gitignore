@@ -1,0 +1,20 @@
+# Intellij
+.idea/
+*.iml
+*.iws
+
+# Mac
+.DS_Store
+
+# Maven
+log/
+target/
+
+.jar
+
+#Allure
+**/allure-results
+**/.allure
+**/allure-report
+
+.logs/
